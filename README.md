@@ -1,0 +1,3 @@
+# PHP Function Unexpected Behavior with Various Data Types
+
+This repository demonstrates an uncommon bug in PHP related to unexpected function behavior when different data types are passed as arguments.  The `my_function` in `bug.php` shows how the function does not correctly handle all cases of null, empty strings, or numbers. The solution demonstrates how the function can be improved to behave as expected, handling these edge cases properly.  This is a common issue when developing PHP applications, especially in cases involving data validation and input sanitization.  The solution showcases one way to resolve this issue.
